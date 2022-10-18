@@ -5,7 +5,7 @@ Living in sunny south Sweden, near the nature and the wonderful west coast. I en
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Moha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-awad-03b619201/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/moha.3wad/)
+[![Linkedin Badge](https://img.shields.io/badge/-Moha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-awad-03b619201/) [![Mail Badge](https://img.shields.io/badge/-@moha.3wad-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/moha.3wad/)
 
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
@@ -25,7 +25,7 @@ Living in sunny south Sweden, near the nature and the wonderful west coast. I en
 
 #### Github Stats
 
-![Moha's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Moha's github stats](https://github-readme-stats.vercel.app/api?username=awmoha_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
