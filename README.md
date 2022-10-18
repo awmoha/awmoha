@@ -22,11 +22,6 @@ Living in sunny south Sweden, near the nature and the wonderful west coast. I en
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 
-
-#### Github Stats
-
-![Moha's github stats](https://github-readme-stats.vercel.app/api?username=awmoha_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
 
 
