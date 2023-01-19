@@ -19,7 +19,7 @@ Living in sunny south Sweden, near the nature and the wonderful west coast. I en
 <br >
 
 - 📫 How to reach me: mohammad.awad0110@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I playing games "FIFA ;)", simning and working out at the gym.
 
 
 </details>
